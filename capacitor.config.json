@@ -1,0 +1,8 @@
+{
+  "appId": "com.jeep.app.react.vite.sqlite",
+  "appName": "react-vite-sqlite-app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "cordova": {}
+}
